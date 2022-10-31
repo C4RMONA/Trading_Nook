@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS just_trade;
+
+CREATE DATABASE just_trade;
